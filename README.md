@@ -8,8 +8,8 @@ O objetivo é mapear de forma lógica o comportamento do usuário, desde o login
 
 ## 🔗 Links para os fluxogramas
 
-- 🔗 **Figma:** [Adicionar link aqui](#)
-- 🔗 **Whimsical:** [Adicionar link aqui](#)
+- 🔗 **Figma:** [(https://www.figma.com/design/lxsovlS9w9a2xlx29cTr5j/BookConnect?node-id=0-1&t=3l8tN7PBKE8J51np-1)](#)
+- 🔗 **Whimsical:** [(https://whimsical.com/bookconnect-B7WJARiPLufjkTnsDH72yx)](#)
 
 ---
 
