@@ -13,14 +13,6 @@ O objetivo é mapear de forma lógica o comportamento do usuário, desde o login
 
 ---
 
-## 📂 Organização
-
-Este repositório tem:
-- Arquivos .fig (Figma)
-- IMG exportado do Whimsical
-
----
-
 ## 📬 Contato
 
 Caso tenha dúvidas ou queira colaborar com ideias, sinta-se à vontade para abrir uma issue ou entrar em contato comigo.
